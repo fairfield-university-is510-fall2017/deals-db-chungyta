@@ -87,3 +87,4 @@ from Firms
 group by firms.firmID, firms.name;
 #Test dealsbyfirm
 select * from dealsbyfirm;
+
